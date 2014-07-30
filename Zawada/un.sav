@@ -1,0 +1,40 @@
+[sfv = 1.5]
+sleep.schedule.lateafternoon,sleep.autonomous.fatigued,sleep.autonomous.wellrested,notification.brokentool,trait.charismatic,trait.clumsy,inventory.infantry.swords,preference.patrol,sleep.schedule,sleep.schedule.dusk,sleep.schedule.morning,sleep.schedule.latemorning,sleep.schedule.midday,sleep.schedule.afternoon,sleep.schedule.evening,trait.strongback,trait.quicklearner,sleep.schedule.midnight,trait.courageous,trait.overeater,sleep.schedule.latenight,sleep.schedule.night,sleep.schedule.dawn,trait.cowardly,preference.default,notification.collect.miner.ore,sleep.autonomous,trait.hardworker,trait.goodvision,preference.hunt.sheep,preference.hunt.boar,preference.hunt.chicken,preference.hunt.berries,notification.collect.farmer
+7
+12/ȗƜ̧͒ǳДǞƄƚʘΣٖ͜ǗƈƱ/False/Infantry/16383/½//Ä/Ð//Adam//ᴶ/⩧//-/122.1/124.4/139.3/398/140
+12/ǨȆŹѿƷѷǰ͒ƟҌǗЖŹʖƁლ/False/Wood Chopper/8372502/á/////James/Ѩ/⒵/ⷠ//,|-|¿,|,/120.5/124.4/148.7/263.0001/137
+12/ѹзƖʠ͕ƘњӠǳˈӲውǭЌǂƸ/True/Infantry/59260239/½///Ì//Maud/ė/ఎ/⾐//-/125.7/124.4/150.9/352.9999/137
+16/ƏǤƬȜ޶ƴƌǲʵǮǿȐᙷǮ͎Ȍ/True/Stone Mason/201326606/Ý/////Cecilia/Ѩ/ዞ/ⴍ//-|,/122.5/124.4/150.7609/128/138
+12/ǖǆ˧ƘȑǔӃƽತȁѪƒƍſźұ/False/Forager/8329052422//////Quentin/Ѩ/╽/⥳//,|-|¿,/125.3/124.4/150.1/218/140
+14/ԂȠࢱതԾҤӿǪǼƗżȍʛǉƩː/False/Blacksmith/83886094//////Neale Morgan/Ѩ/₋/⾊//,|-|,|,/123.1/124.4/153.3/308/138
+12/҉ƍ͡ǼƢ͍ິźѰƹƬ͆ǢȇǁǶ/True/Farmer/8657043462/ë/////Joyse/Ѩ/᷁/⡡//-|,|¢,/125.7/124.4/152.3/398/140
+9
+Sheep/40.21814/-3.4/47.5/90.00001/0.4/0/0/0/False/False/False/False/
+Boar/27.7/-3.6/1.1/270/0.4/0/0/0/False/False/False/False/
+Boar/48.3/-2.2/39.3/270/0.4/0/0/0/False/False/False/False/
+Sheep/45.7/-2.4/41.5/270/0.4/0/0/0/False/False/False/False/
+Sheep/23.9/-3.2/-46.5/270/0.4/0/0/0/False/False/False/False/
+Boar/51.1/-3/-45.9/90.00001/0.4/0/0/0/False/False/False/False/
+Sheep/27.5/-3.6/-20.9/0/0.4/0/0/0/False/False/False/False/
+Chicken/43.9/-3.6/10.89056/0/0.4/0/0/0/False/False/False/False/
+Sheep/24.54351/-3.6/-33.9/90.00001/0.4/0/0/0/False/False/False/False/
+19
+Skeleton/0.1/-3.6/19.1/90.00006/0/2/False/
+Wolf/27.5/-3.6/1.1/315/0/0/False/
+Wolf/27.7/-3.6/1.3/270/0/3/False/
+Wolf/29.1/-3.6/6.7/270/0/0/False/
+Wolf/-13.1/-3.2/-27.3/90.00002/0/1/True/
+Wolf/6.3/-3.4/-36.1/90.00002/0/0/False/
+Wolf/6.3/-3.4/-35.9/135/0/3/False/
+Wolf/-16.1/-3.4/-19.3/0/0/3/False/
+Wolf/-27.3/-3.4/-29.5/135/60/1/True/
+Skeleton/-3.5/-4.6/13.5/315/0/0/False/
+Skeleton/-3.3/-3.6/15.9/225/0/2/False/
+Skeleton/-2.1/-3.6/14.7/135/0/0/False/
+Skeleton/-2.5/-4.6/14.3/90.00001/0/2/False/
+Skeleton/-1.1/-3.6/24.5/180/0/0/False/
+Skeleton/5.3/-3.4/26.1/270/80/0/False/
+Skeleton/5.3/-3.4/25.7/270/60/2/False/
+Wolf/-16.9/-3.4/43.1/90.00001/35/3/False/
+Wolf/-16.9/-3.4/42.9/0/35/3/False/
+Wolf/23.1/-3/38.9/270/35/0/False/

@@ -1,0 +1,67 @@
+[sfv = 1.5]
+trait.hardworker,trait.courageous,trait.weakback,trait.quicklearner,sleep.autonomous,sleep.autonomous.fatigued,sleep.autonomous.wellrested,trait.strongback,trait.disloyal,trait.clumsy,trait.lazy
+8
+12/ǎǢǡϔƥ̙Ị̏҅ƚѨ͡ӡŽȁӧ/False/Builder/127//////Symond Belmont/Ѩ/⚮/⟑//-/133.7/124.8/130.3/308/138
+12/ƻЎƁǽȆƉƽǄƜǬǑ͏ȘƬǱǴ/False/Archer/240/×/Á/Æ/Î//Neale Vanier/Ѩ/␲/⟑//-/134.9/124.8/132.5/218/137
+12/ˌ̛Ǉнѡйʒȍˢ̲Ȝ̡ˠƆǢƠ/False/Farmer/113//////Gustav Pezka/Ѩ/ᴝ/⟑//-/136.5/124.8/130.1/173/137
+12/Ǟ҉ʳƜǉƓǏƌƈǑ˯ȁǧއ͏ț/False/Tailor/506//////Gerald Ward/Ѩ/⃉/⟑//-/135.7/124.8/128.7/308/139
+12/ǡƹ̙ƠͧƠȀʡϾȐǴˑȓƢ̑ƛ/True/Forager/118//////Hildegard Allen/Ѩ/⊵/⟑//-/135.9/124.8/127.5/308/137
+12/ȁ̐ݮșƮǔƔƝǟǨпѲʺƓː˽/False/Blacksmith/112//////Bernard/Ѩ/⑜/⟑//-/137.7/124.8/130.9/218/139
+12/ʾӳǑǥǻӒҼƣ̠ƾϴǰ̖̈́˺З/False/Infantry/624/¿//Ê/Ñ//Felton/Ѩ/␖/⟑//-/135.7/124.8/127.9/218/137
+12/ǻȈǂȁǀǇǚƾғ˫ǁֵȔƞ̿Ǔ/False/Miner/1136/æ/////Fabian Wolf/Ѩ/⍉/⟑//-|,/133.3/124.8/133.5/443/140
+54
+Boar/-35.7/-2.8/25.9/180/0.4/0/0/0/False/False/False/False/
+Boar/31.5/-3/-17.9/90.00002/0.4/0/0/0/False/False/False/False/
+Chicken/-37.5/-2.8/30.32831/0/0.4/0/0/0/False/False/False/False/
+Boar/-18.5/-3/-34.1/180/0.4/0/0/0/False/False/False/False/
+Boar/-16.7/-3.2/16.5/270/0.4/0/0/0/False/False/False/False/
+Chicken/13.1/-3/14.68085/180/0.4/0/0/0/False/False/False/False/
+Sheep/-4.9/-3/-1.3/0/0.4/0/0/0/False/False/False/False/
+Chicken/-7.3/-3.4/13.5/270/0.4/0/0/0/False/False/False/False/
+Sheep/-23.59052/-3.2/-5.3/90.00001/0.4/0/0/0/False/False/False/False/
+Chicken/1.5/-3.4/26.7/270/0.4/0/0/0/False/False/False/False/
+Sheep/32.3/-3.2/-24.69292/180/0.4/0/0/0/False/False/False/False/
+Boar/-10.3/-3.2/-6.5/0/0.4/0/0/0/False/False/False/False/
+Chicken/-30.9206/-2.4/9.5/270/0.4/0/0/0/False/False/False/False/
+Boar/-35.1/-3/-11.9/270/0.4/0/0/0/False/False/False/False/
+Chicken/-0.9/-3.2/10.9/90.00001/0.4/0/0/0/False/False/False/False/
+Boar/26.3/-2.8/28.3/0/0.4/0/0/0/False/False/False/False/
+Chicken/20.91916/-3/-20.1/90.00001/0.4/0/0/0/False/False/False/False/
+Boar/10.5/-3.2/34.3/180/0.4/0/0/0/False/False/False/False/
+Chicken/-30.9/-2.8/38.1/270/0.4/0/0/0/False/False/False/False/
+Sheep/25.50769/-2.8/30.1/270/0.4/0/0/0/False/False/False/False/
+Boar/21.3/-2.6/12.9/0/0.4/0/0/0/False/False/False/False/
+Chicken/10.1/-3.2/36.7/0/0.4/0/0/0/False/False/False/False/
+Sheep/38.3/-2.8/-18.9/0/0.4/0/0/0/False/False/False/False/
+Chicken/34.9/-2.4/1.074743/180/0.4/0/0/0/False/False/False/False/
+Chicken/23.7/-3.2/-3.9/180/0.4/0/0/0/False/False/False/False/
+Sheep/-30.7/-2.8/36.3/90.00002/0.4/0/0/0/False/False/False/False/
+Boar/3.1/-3/35.5/90.00001/0.4/0/0/0/False/False/False/False/
+Chicken/10.9/-3/-37.5/0/0.4/0/0/0/False/False/False/False/
+Boar/-14.3/-3.2/6.1/0/0.4/0/0/0/False/False/False/False/
+Chicken/-3.5/-3.4/24.1/0/0.4/0/0/0/False/False/False/False/
+Sheep/24.9/-2.6/7.1/270/0.4/0/0/0/False/False/False/False/
+Chicken/-20.1/-3.180849/29.68085/180/0.4/0/0/0/False/False/False/False/
+Sheep/20.5/-3.2/-9.439876/180/0.4/0/0/0/False/False/False/False/
+Chicken/27.92526/-3.2/-23.7/90.00001/0.4/0/0/0/False/False/False/False/
+Boar/9.1/-3/-38.1/270/0.4/0/0/0/False/False/False/False/
+Chicken/26.7/-3/35.5/270/0.4/0/0/0/False/False/False/False/
+Sheep/14.5/-3.2/-5.3/180/0.4/0/0/0/False/False/False/False/
+Boar/30.7/-2.8/35.3/180/0.4/0/0/0/False/False/False/False/
+Chicken/0.12669/-3.2/-8.3/90.00001/0.4/0/0/0/False/False/False/False/
+Sheep/-37.9/-3/-12.07317/180/0.4/0/0/0/False/False/False/False/
+Chicken/28.1/-3/-9.7/180/0.4/0/0/0/False/False/False/False/
+Sheep/30.3/-3.2/-17.90842/180/0.4/0/0/0/False/False/False/False/
+Boar/-36.3/-2.8/18.1/270/0.4/0/0/0/False/False/False/False/
+Chicken/-7.7/-3.2/-13.9/180/0.4/0/0/0/False/False/False/False/
+Sheep/-25.5/-3/-30.7/270/0.4/0/0/0/False/False/False/False/
+Sheep/26.5/-2.8/3.1/270/0.4/0/0/0/False/False/False/False/
+Boar/10.1/-2.8/-25.7/270/0.4/0/0/0/False/False/False/False/
+Chicken/22.5/-2.8/-31.5/270/0.4/0/0/0/False/False/False/False/
+Chicken/26.7/-2.6/14.7/0/0.4/0/0/0/False/False/False/False/
+Boar/36.7/-3.2/-33.32042/0/0.4/0/0/0/False/False/False/False/
+Boar/-0.3/-3/-10.7/90.00002/0.4/0/0/0/False/False/False/False/
+Chicken/-8.7/-2.8/-27.3/90.00001/0.4/0/0/0/False/False/False/False/
+Chicken/25.5/-3/-11.1/0/0.4/0/0/0/False/False/False/False/
+Sheep/16.5/-2.8/-15.5/180/0.4/0/0/0/False/False/False/False/
+0
