@@ -1,26 +1,31 @@
 [sfv = 1.5]
 trait.lazy,trait.cowardly,trait.charismatic,trait.overeater,sleep.autonomous,sleep.autonomous.fatigued,sleep.autonomous.energetic,trait.clumsy,notification.collect.farmer,preference.patrol,trait.disloyal,trait.quicklearner,notification.brokentool,sleep.autonomous.winded,preference.guard,trait.goodvision,notification.collect.fisherman,preference.attackchargetargets,preference.default,sleep.autonomous.wellrested,preference.train.infantry,preference.hunt.boar,trait.strongback,preference.hunt.berries,sleep.schedule.midnight,sleep.schedule.latenight,sleep.schedule.night,sleep.schedule.evening,notification.collect.forager,sleep.schedule.latemorning,sleep.schedule.afternoon,sleep.schedule.midday
 8
-12/țƌᢉ䟊ٹǎ̗ۂǳƨſߛত˓Ж̳/True/Miner/127/é/////Colette/Ѩ/᎔/⨲//,|-|ð,|,|,/113.6491/125.1491/127.7/218/139
-12/ƦǲǄ༯ྖƻ䟊̪ǺƈϗǕ͞Қǝ̄/True/Builder/1008//////Gylda/Ѩ/ᵨ/⢖//-/109.9/125/128.3/398/138
-12/рЈΫ઼ᆥƴƔǎǎžȆઇ䟊̮׏˯/False/Builder/31824//////Ferdinand/Ѩ/ᆨ/⨥//-/104.1/124.4/131.9/308/139
-12/ƗƬΈ≌݋˜ƑஙʼɤϚⓖ᫯ࢬƣ࢐/False/Wood Chopper/231024//////Neville Huges/Ѩ/ᚯ/⩣//-/108.3/125/131.5/398/140
-12/ӕʔƚደǍѾǠѰ҄лƛ䟊̦ƃ˘ȍ/True/Miner/852018/é/////Ismay/Ѩ/ᮏ/⨬//-/116.9/126/129.3/308/140
-12/ƥǉ֮ԡۣƤǤҮԞʑ݁ᶝॊȕ̹㸴/False/Wood Chopper/1578032//////Robert Grey/Ѩ/ᵛ/⳦//-/108.7/125/131.5/218/140
-14/̵ʜѾ̾ɄƎȃ⧧ๅСǟ˙хʴ̶̱/True/Fisherman/535384116/ó/////Dorothe/Ѩ/ᐲ/⨎//-|,/105.9/124.4/127.5/308/137
-12/ǒв·⽖୸ЏȗٷԯǂᘩлƩ˵ˎǠ/True/Infantry/3758260976/À/ñ/È/Ò/Ó/Kateryn/Ѩ/ᒽ/⣉//,|-|½,/126.1/125.8/121.5/128/138
+12/țƌᢉ䟊ٹǎ̗ۂǳƨſऍত˓Ж̳/True/Miner/127//////Colette/Ѩ/ᨲ/⨦//-/108.7/125/131.5/218/139
+12/ƦǲǄᗔྖƻ䟊̪ǺƈϗǕ͞Қǝ̄/True/Builder/1008/Ý/////Gylda/Ѩ/ఏ/⥈//-|°,/100.1/124.4/132.7/353.0001/138
+12/рЈΫૻᆥƴƔǎǎžȆઇ䟊̮׏˯/False/Stone Mason/31824/Ý/////Ferdinand/Ѩ/ῆ/⡦//-/101.5/124.6/133.9/128/139
+12/ƗƬΈ≌݋˜ƑஙʼɤϚⓖ᫯ࢬƣ૏/False/Wood Chopper/231024/Ý/////Neville Huges/Ѩ/ᣟ/➬//-/112.5/124.8/140.3314/128/140
+12/ӕʔƚደǍѾǠѰ҄лƛ䟊̦ƃ˘ȍ/True/Miner/852018/é/////Ismay/Ѩ/੨/⥢//-/116.3/126/128.7/173/140
+12/ƥǉ֮ԡۣƤǤҮԞʑ݁ᶝॊȕ̹䅼/False/Wood Chopper/1578032/á/////Robert Grey/Ѩ/࿫/⥣//-|,|þ,/128.2121/125.2/133.9879/443/140
+14/̵ʜѾ̾ɄƎȃ⪧ๅСǟ˙хʴ̶̱/True/Fisherman/535384116/ó/////Dorothe/Ѩ/ᾳ/❏//-|,/105.9/124.4/130.3/398/137
+12/ǒв·⽖୸ЏȗٷԯǂᘩлƩ˵ˎǠ/True/Infantry/3758260976//////Kateryn/Ѩ/஁/⩤//,|-|À,/108.3/125/131.5/398/138
 13
-Sheep/9.5/-3.4/19.7/0/0.4/0/0/0/False/False/False/False/
-Sheep/25.12339/-1.8/-18.7/90.00001/0.4/0/0/0/False/False/False/False/
-Sheep/4.923393/-3.2/13.5/90.00001/0.4/0/0/0/False/False/False/True/
-Sheep/-20.1/-2.4/-22.74228/0/0.4/0/0/0/False/False/False/False/
-Boar/-3.3/-1.8/-8.723568/180/0.4/0/0/0/False/False/False/False/
-Sheep/-25.9/-3.4/4.3/270/0.4/0/0/0/False/False/False/False/
-Sheep/-4.707202/-2.6/8.5/270/0.4/0/0/0/False/False/False/False/
-Sheep/3.9/-2.4/2.682806/0/0.4/0/0/0/False/False/False/False/
-Sheep/12.3/-3.4/25.47661/180/0.4/0/0/0/False/False/False/False/
-Boar/-26.1/-3.4/4.3/270/0.4/0/0/0/False/False/False/False/
-Sheep/-7.076607/-1.6/-10.3/90.00001/0.4/0/0/0/False/False/False/False/
-Chicken/5.7/-2.8/-31.42982/0/0.4/0/0/0/False/False/False/False/
-Sheep/-18.7/-2.8/-33.27661/0/0.4/0/0/0/False/False/False/False/
-0
+Sheep/9.475996/-3.4/17.7/270/0.4/0/0/0/False/False/False/False/
+Sheep/29.1928/-2.107197/-13.3/90.00001/0.4/0/0/0/False/False/False/False/
+Sheep/13.5/-3.4/13.9/180/0.4/0/0/0/False/False/False/True/
+Sheep/-25.5/-2.6/-24.9/180/0.4/0/0/0/False/False/False/False/
+Boar/-2.3/-1.4/-12.9/180/0.4/0/0/0/False/False/False/False/
+Sheep/-25.5/-3.4/4.5/0/0.4/0/0/0/False/False/False/False/
+Sheep/-0.3/-3/12.3/0/0.4/0/0/0/False/False/False/False/
+Sheep/6.7/-2.8/4.930595/180/0.4/0/0/0/False/False/False/False/
+Sheep/16.9/-3.2/22.76/180/0.4/0/0/0/False/False/False/False/
+Boar/-25.9/-3.4/4.3/90.00001/0.4/0/0/0/False/False/False/False/
+Sheep/-8.3/-1.6/-10.7/90.00001/0.4/0/0/0/False/False/False/False/
+Chicken/3.9/-2.8/-32.9/270/0.4/0/0/0/False/False/False/False/
+Sheep/-19.1/-3.6/-37.3/0/0.4/0/0/0/False/False/False/False/
+5
+Spider/16.3/-3.2/38.3/180/15/0/False/
+Spider/14.5/-3.2/27.9/180/15/0/False/
+Spider/-13.3/-2.4/19.5/45/0/0/False/
+Spider/3.3/-3.4/34.7/180/15/0/False/
+Spider/-14.7/-3.4/31.9/90.00001/15/0/False/
