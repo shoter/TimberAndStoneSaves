@@ -1,37 +1,29 @@
 [sfv = 1.5]
-trait.lazy,trait.cowardly,trait.charismatic,trait.overeater,sleep.autonomous,sleep.autonomous.fatigued,sleep.autonomous.energetic,trait.clumsy,notification.collect.farmer,preference.default,trait.disloyal,trait.quicklearner,notification.brokentool,sleep.autonomous.winded,preference.guard,trait.goodvision,notification.collect.fisherman,preference.attackchargetargets,sleep.autonomous.wellrested,preference.hunt.boar,trait.strongback,preference.hunt.berries,sleep.schedule.midnight,sleep.schedule.latenight,sleep.schedule.night,sleep.schedule.evening,notification.collect.forager,sleep.schedule.latemorning,sleep.schedule.afternoon,sleep.schedule.midday,sleep.autonomous.exhausted,preference.train.infantry,trait.hardworker
+trait.lazy,trait.cowardly,trait.charismatic,trait.overeater,sleep.autonomous,sleep.autonomous.fatigued,sleep.autonomous.energetic,trait.clumsy,notification.collect.farmer,preference.default,trait.disloyal,trait.quicklearner,notification.brokentool,sleep.autonomous.winded,preference.guard,trait.goodvision,notification.collect.fisherman,preference.attackchargetargets,sleep.autonomous.wellrested,preference.hunt.boar,trait.strongback,preference.hunt.berries,sleep.schedule.midnight,sleep.schedule.latenight,sleep.schedule.night,sleep.schedule.evening,notification.collect.forager,sleep.schedule.latemorning,sleep.schedule.afternoon,sleep.schedule.midday,preference.train.infantry,trait.hardworker
 13
-12/țƌᢻ䟊ڡǎ̗ۂǳƨſኹত˓Ж̳/True/Blacksmith/127////ö//Colette/Ѩ/ဢ/⟺//-|Ć,/107.9/125/129.9/398/139
-12/ƦǲΚᨊྖσ䟊̪ǺƈϗǕ͞Қǝ̄/True/Farmer/1008/ë///ö//Gylda/Ѩ/ळ/⨂//-|,|¡,|¨,| ,|ô,/107.5/125/127.7/353.0001/138
-12/рЈΫ௾ᆹǡƔǎǎžȆઇ䟊ޓ׏˯/False/Stone Mason/31824//////Ferdinand/Ѩ/⚯/Ⰻ//-/109.7/125/131.5/398/139
-12/ƗƬΈ╇ਖ̉ƑஙʼɤҢ㍰᫯ࢬƣ౩/False/Miner/231024/ê///ö//Neville Huges/Ѩ/ᐘ/⡮//-|°,/102.1/124.6/126.9/308/140
-12/ӕʔƚ⁫ՠѾǠѰ҄лƛ䟊̦ƃ˘ȍ/True/Builder/328242/à///ö//Ismay/Ѩ/Ⴅ/➆//-|°,/111.3/126.8/125.1/398/140
-12/ƥǉஊՠۣƤǤҮԞʑ࡭ᶝॊȕΝ䟊/False/Wood Chopper/267824/á///ö//Robert Grey/Ѩ/ᮼ/⩋//-/117.5/126.2/109.5/263.0001/140
-14/̵ʜѾ̾ɄƎȃ㤗ๅСǟ˙хʴ̶̱/True/Fisherman/134041652/ó///ö//Dorothe/Ѩ/ފ/❻//-|,¥/106.5/124.8/125.9/398/137
-12/ǒв·⽖୸Џȗٷԯǂ᷹лƩ˵ˎǠ/True/Infantry/2013430480//////Kateryn/Ѩ/␱/⹸//-/108.3/125/131.5/398/138
-12/ƹӓ˳ǰфƶƩ೚ИƲȃһżƞͦǄ/False/Fisherman/262192/ó///ö//Philippe/Ѩ/ὤ/⟙//-|,/106.1/124.6/127.1/442.9999/145
-12/ȁ͌ǈǽНǚŹǳȊΆǟϣǴҁǀƇ/False/Herder/280624////ö//Humphrey/Ѩ/ᗊ/⦲//-/109.9/125/128.7/398/147
-12/ǳȂ͍ɬȆƀȒƗǌȅ᠙ˤǚ͆ǁȅ/True/Miner/2147876912/ê///ö//Juliette/ŕ/࣯/⠆//-/108.5/125/127.5/128/148
-12/ȅƂƆǆᣛȆˌǫƎșɟǰӠιˋӐ/False/Carpenter/4295229492////ö//Roland Navarre/Ѩ/᣽/➲//-/109.9/125/128.3/398/152
-12/ș͔ȍǎǯǯЎӎ̔ǲ̒˂Ǧ̗ǵƗ/False/Fisherman/264241//////Reginald/Ѩ/ਗ/⥚//-/108.7/125/131.5/218/144
-8
-Boar/-21.1/-3/4.5/270/0.6464857/0.09865051/0/0/True/False/False/True/
+12/țƌᭀ䟊ڡǎ̗ۂǳƨſኹত˓Ж̳/True/Blacksmith/127//////Colette/Ѩ/ᗙ/⮖//-/109.7/125/131.5/398/139
+12/ƦǲΚᨊྖσ䟊̪ǺƈϗǕ͞Қǝ̄/True/Farmer/1008/ë///ö//Gylda/Ѩ/ᘱ/⠪//-|¨,|ô,|,/107.3/125/127.7/308/138
+12/рЈΫ௾ᆹǡƔǎǎžȆઇ䟊ޓ׏˯/False/Stone Mason/31824/à///ö//Ferdinand/Ѩ/ᭋ/⡈//-|°,/101.3246/124.6/133.5246/173.0001/139
+12/ƗƬΈ╇ਖ̉ƑஙʼɤҢ㟼᫯ࢬƣ౩/False/Miner/231024//////Neville Huges/Ѩ/ဲ/⫵//-/98.7/125.4/132.7/307.9998/140
+12/ӕʔƚ⠡ՠѾǠѰ҄лƛ䟊̦ƃ˘ȍ/True/Builder/328242/Ý///ö//Ismay/Ѩ/ᤱ/⦌//-|ą,/98.3/126.4/134.3/218/140
+12/ƥǉஊՠۣƤǤҮԞʑ࡭ᶝॊȕΝ䟊/False/Wood Chopper/267824//////Robert Grey/Ѩ/ᩉ/⮻//-/108.7/125/131.5/218/140
+14/̵ʜѾ̾ɄƎȃ㰧ๅСǟ˙хʴ̶̱/True/Fisherman/134041652//////Dorothe/Ѩ/ᛋ/⥐//-/107.3/125/131.5/398/137
+12/ǒв·⽖୸ЏȗٷԯǂᾉлƩ˵ˎǠ/True/Infantry/939712720/À/ñ/Ç/Î/Ó/Kateryn/Ѩ/ᤆ/⩓//-/108.3/125.0231/124.7231/128/138
+12/ƹӓ˳ǰфƶƩၒИƲȃһżƞͦǄ/False/Fisherman/262192/ó///ö//Philippe/Ѩ/ᩇ/✻//-|,/107.5/125/123.5/172.9999/145
+12/ȁ͌ǈǽНǚŹǳȊϪǟϣǴҁǀƇ/False/Herder/280624////ö//Humphrey/Ѩ/ྜ/⠊//-/109.9/125/128.3/398/147
+12/ǳȂ͍ɬȆƀȒƗǌȅ᠙ٮǚ͆ǁȅ/True/Miner/1074135088/ê///ö//Juliette/Ѩ/ၝ/⡣//-|°,/97.7/126.4/134.3/262.9999/148
+12/ȅƂƆǆ⋠ȆˌǫƎșɟǰӠιˋӐ/False/Carpenter/2147745844/Ý///ö//Roland Navarre/Ѩ/൷/➄//-/108.5/125/128.5/308/152
+12/ș͔ȍǎǯǯЎߞ̔ǲ̒˂Ǧ̗ǵƗ/False/Fisherman/264241//////Reginald/Ѩ/₵/Ⲙ//-/107.9/125/130.662/308/144
+4
 Sheep/-25.5/-3.4/4.5/0/0.4/0/0/0/False/False/False/False/
-Sheep/-20.7/-3/5.039723/180/0.7260185/0.05255189/0/0/True/False/False/True/
 Boar/-25.7/-3.4/4.3/270/0.4/0/0/0/False/False/False/False/
-Sheep/-18.7/-3/4.5/180/0.5724754/0.04077619/0/0/True/False/False/True/
-Boar/-21.5/-3/4.5/270/0.5862026/0.09133301/0/0/True/False/False/True/
-Sheep/-20.9/-3/5.5/270/0.6748632/0.02810751/0/0/True/False/False/True/
-Sheep/-21.1/-3/4.7/90.00001/0.7995685/0.03604862/0/0/True/False/False/True/
-15
+Sheep/35.04139/-2.4/-9.7/90.00001/0.4/0/0/0/False/False/False/False/
+Sheep/5.1/-1.6/-1.219558/180/0.4/0/0/0/False/False/False/False/
+18
 Skeleton/37.3/-3.4/20.3/0/80/0/False/
 Spider/37.3/-2.6/10.9/180/0/0/False/
 Spider/36.5/-2.6/8.7/270/0/0/False/
-Wolf/1.7/-3.2/-36.97675/180/35/3/False/
-Wolf/32.3/-2.4/-6.5/180/35/3/False/
-Wolf/0.5636396/-3/-36.20039/135/35/3/False/
 Wolf/37.1/-3.6/7.5/270/35/3/False/
-Wolf/0.5254558/-3/-35.95853/135/35/0/False/
 Spider/38.3/-1.4/20.3/90.00001/15/0/False/
 Spider/38.3/-1/24.9/90.00001/15/0/False/
 Spider/38.3/-0.4/23.9/90.00001/15/0/False/
@@ -39,3 +31,10 @@ Spider/38.3/-2.4/-2.5/90.00001/15/0/False/
 Spider/38.3/-1.8/18.7/90.00001/15/0/False/
 Spider/38.3/-2.8/-8.7/90.00001/15/0/False/
 Spider/38.3/-2.4/6.9/90.00001/15/0/False/
+Spider/38.3/-2.2/14.7/90.00001/15/0/False/
+Spider/38.3/-2.6/-21.7/90.00001/15/0/False/
+Spider/38.3/-0.8/21.5/90.00001/15/0/False/
+Spider/38.3/-2.4/-3.9/90.00001/15/0/False/
+Spider/38.3/-2.6/-0.7/90.00001/15/0/False/
+Spider/38.3/-2.6/-6.3/90.00001/15/0/False/
+Spider/38.3/-2.6/-6.3/90.00001/15/0/False/
